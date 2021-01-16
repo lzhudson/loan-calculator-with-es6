@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-   <img src=".github/docs/images/loan-calculator-init.png"/>
+   <img src=".github/images/loan-calculator-init.png"/>
 </p>
 
 
